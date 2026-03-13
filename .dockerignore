@@ -1,0 +1,13 @@
+**/__pycache__
+**/*.pyc
+logs/
+exports/
+memory/
+.state/
+.openclaw/
+tmp/
+reports/
+*.png
+*.jpg
+*.jpeg
+*.pdf

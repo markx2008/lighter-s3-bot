@@ -1,0 +1,18 @@
+.openclaw/
+.state/
+logs/
+exports/
+memory/
+reports/
+tmp/
+__pycache__/
+*.pyc
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.html
+
+# Secrets
+# Do not commit any local AI/Opencode config (may contain API keys).
+opencode.jsonc
